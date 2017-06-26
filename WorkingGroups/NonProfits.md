@@ -7,7 +7,7 @@ Privacy Preserving Donations for Non-Profits
   This working group currently takes place in the main channel chat.zcashcommunity.com/#the-zcash-foundation
 
 - _Statement of purpose:_
-  The mission of this working group is to help non-profits to accepting privacy-preserving donations. This can mean both privacy for the donors, who may wish to donate anonymously, and privacy for the non-profits, who may wish to implement selective disclosure. 
+  The mission of this working group is to help non-profits to accepting privacy-preserving donations. This can mean both privacy for the donors, who may wish to donate anonymously, and privacy for the non-profits, who may wish to only disclose the details of donations to select third-parties.
  
   More specific tasks include:
   - Outreach to non-profits to help them understand the benefits of cryptocurrency donations and their security/privacy implications 

@@ -12,7 +12,7 @@ Next Steps:
     - Filecoin
     - Ethereum
     - Chronicled
-    - Qedit
+    - QED-it
     - Tezos
     - Quorum
     - Zcash Company

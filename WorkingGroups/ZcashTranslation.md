@@ -10,7 +10,7 @@ Statement of purpose: The mission of this working group is to translate all the 
 
 - Russian
 
-- Mandarim
+- Mandarin
 
 If there's volunteers that are able to translate for other languages, the number of languages can increase.
 

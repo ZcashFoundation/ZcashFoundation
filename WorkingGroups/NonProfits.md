@@ -15,6 +15,7 @@ Privacy Preserving Donations for Non-Profits
   - Prepare documentation and “starter guides” to facilitate the above
  
   So far, we have already helped several non-profits to begin accepting Zcash donations:
+  - Courage Foundation https://couragefound.org/donate/
   - Internet Archive https://forum.z.cash/t/internet-archive-accepting-zcash-donations/15986
   - Torservers.net https://www.torservers.net/donate.html#cryptocurrencies
   - riseup.net https://riseup.net/en/donate#zcash

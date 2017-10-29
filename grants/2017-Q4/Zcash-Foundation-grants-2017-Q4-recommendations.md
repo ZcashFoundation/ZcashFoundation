@@ -19,9 +19,9 @@ Our process allowed 3 weeks between the preliminary filings and the final submis
 
 We felt that this process was very constructive, and that the early feedback improved the viability and clarity of many proposals.
 
-The grant review committee followed these discussions, and summarized its scores and notes on the filings on a private spreadsheet. Based on these, preliminary opinions were issued to the proposers, prior to the deadline for full submissions, on whether their filings seem promising for funding. These were a mere advisory, and proposers were free to continue adjusting their proposals.
+The grant review committee followed these discussions, and summarized its scores and notes on the filings on a private spreadsheet. Based on these, preliminary opinions were issued to the proposers, prior to the deadline for full submissions, on whether their filings seems promising for funding. These were a mere advisory, and proposers were free to continue adjusting their proposals.
 
-By the October 6th deadline, 11 of the 15 of proposals that received a positive preliminary recommendation, and 2 additional proposal, proceeded to make a full submission. (The remainder effectively withdrew their proposals.)
+By the October 6th deadline, 11 of the 15 of proposals that received a positive preliminary recommendation, and 2 additional proposals, proceeded to make a full submission. (The remainder effectively withdrew their proposals.)
 
 ## Decision process
 
@@ -36,7 +36,7 @@ After the October 6th 2017 submission deadline, the grant review committee start
 * Balance of solid vs. high-risk-high-gain
 * Multiple proposals from same submitter
 
-The committee's internal discussion occurred in a private shared document, where every committee member could review and score every proposal (except for two cases of conflict of interest). Every proposal was received and scored by at least 3 committee members. In the mean while, one proposal ([#5](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/5)) was funded by an external donation, and thus withdrawn.
+The committee's internal discussion occurred in a private shared document, where every committee member could review and score every proposal (except for two cases of conflict of interest, [#5](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/5) and [#24](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/24)). Every proposal was received and scored by at least 3 committee members. In the mean while, one proposal ([#5](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/5)) was funded by an external donation, and thus withdrawn.
 
 On October 21th 2017, the committee conducted a videoconference meeting to discuss all proposals, and reached tentative conclusions; lingering questions on a few proposals were discussed over a few more days.
 
@@ -80,7 +80,7 @@ The proposers’ team has expertise in computer science, engineering and marketi
 * Recommended funding: USD 9,000
 * [[proposal]](https://github.com/ZcashFoundation/GrantProposals-2017Q4/files/1360660/Zcash.on.Tor.-.Grant.Proposal.2017.Q4.-.Final.Submission.pdf) [[discussion]](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/11)
 
-The proposer runs Zcash on Tor", a free service which provides Zcash peer-to-peer nodes accessible as high-bandwidth Tor servers, to help users protect the privacy of the Zcash transactions from network monitoring attacks. The funds will be used to maintain and upgrade this service, where the bulk of the cost is system administration. The proposer also plans to set up non-profit ISP in UK to put things on solid ground legally.
+The proposer runs "Zcash on Tor", a free service which provides Zcash peer-to-peer nodes accessible as high-bandwidth Tor servers, to help users protect the privacy of the Zcash transactions from network monitoring attacks. The funds will be used to maintain and upgrade this service, where the bulk of the cost is system administration. The proposer also plans to set up non-profit ISP in UK to put things on solid ground legally.
 
 The committee points out that the use of Zcash over Tor opens some potential attacks, as [discussed](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/11), and that the presence of many additional, independent nodes is needed to mitigate these attacks; we hope that the open-source deployment tools released under this project will facilitate this.
 
@@ -117,7 +117,7 @@ Funding of the minimum amount requested (7,000 USD) is recommended, since this s
 #### #21 Improved multi platform support
 
 * Proposer: [David Mercer](https://github.com/radix42)
-* Recommended funding: USD 8,000*
+* Recommended funding: USD 8,000
 * [[proposal]](https://github.com/ZcashFoundation/GrantProposals-2017Q4/files/1364175/CrossPlatformGrantProposal.pdf) [[discussion]](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/21)
 
 The proposer has ported the zcashd software and the Zcash desktop GUI wallet to Windows and Mac. He proposes to continue and stabilize this work by unifying the various porting branches and build scripts, deploy and maintaining machines for Mac and Windows testing environments, and preparing porting efforts for upstream merging.
@@ -151,7 +151,7 @@ Note: CryptoLUX is headed by Prof. Alex Biryukov, who serves on the review commi
 #### #29 Web Based XCAT tool for easy ZEC <-> Bitcoin Trade
 
 * Proposer: [Jason Davies](https://github.com/jasondavies)
-* Recommended funding: USD 15,000*
+* Recommended funding: USD 15,000
 * [[proposal]](https://github.com/ZcashFoundation/GrantProposals-2017Q4/files/1363993/29.pdf) [[discussion]](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/29)
 
 Proposes to implement a web-based service for creating and monitoring of cross-chain atomic trades (XCAT) between Zcash and Bitcoin. The proposal extensively discusses the privacy and security tradeoff in the design of the such a system. The budget includes both the development of open-source software and running it as an online service for 12 months. The implementation will initially perform unshielded (t-address) trades, and may be later extended to shielded trades.
@@ -164,11 +164,11 @@ One concern was that similar XCAT tools may be developed independently, by recen
 * Recommended funding: USD 15,000
 * [[proposal]](https://github.com/ZcashFoundation/GrantProposals-2017Q4/files/1392796/32-1.pdf) [[discussion]](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/32)
 
-Proposes to implement a Zcash node with full verification of all transaction types (though not, yet, the wallet and proving functionality). The starting point is the Parity-Bitcoin reimplementation of a Bitcoin full node; the proposer will port it to Zcash and add the extra functionality needed to verify Zcash transactions - in particular, verification of JoinSplit in shielded transactions, also implemented in Rust.
+Proposes to implement a Zcash node with full verification of all transaction types (though not, yet, the wallet and proving functionality). The starting point is the Parity-Bitcoin reimplementation of a Bitcoin full node; the proposer will port it to Zcash and add the extra functionality needed to verify Zcash transactions - in particular, verification of JoinSplits in shielded transactions, also implemented in Rust.
 
-This will constitute an independent implementation of most of the zcashd node  functionality, by a party outside the Zcash Company. Such alternative implementation are crucial for security and decentralization, which are core [values](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/VALUES.md) for the Zcash Foundation. Moreover, the Rust language seems more suitable than zcashd's C++ for some prospective uses, such as in-browser walllets.
+This will constitute an independent implementation of most of the zcashd node  functionality, by a party outside the Zcash Company. Such alternative implementation are crucial for security and decentralization, which are core [values](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/VALUES.md) for the Zcash Foundation. Moreover, the Rust language seems more suitable than zcashd's C++ for some prospective uses, such as in-browser wallets.
 
-The proposer has been an active contributor to the Zcash community and created a stand-alone zk-SNARK verifier in rust that can validate Zcash JoinSplit proofs; he thus appears capable of implementing this proposal.
+The proposer has been an active contributor to the Zcash community and created a stand-alone zk-SNARK verifier in Rust that can validate Zcash JoinSplit proofs; he thus appears capable of implementing this proposal.
 
 ### Do not fund
 
@@ -179,14 +179,14 @@ The committee recommends that in the current grants program, the Zcash Foundatio
 * Proposer: [Theo Chino](https://github.com/theochino)
 * [[proposal](https://github.com/ZcashFoundation/GrantProposals-2017Q4/files/1354592/ZCashFoundation.pdf)] [[discussion](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/3)]
 
-Proposed by Theo Chino, a privacy and financial inclusion activist. Theo propose that the Foundation support his lawsuit seeking to overturn the legal basis for the Bitlicense regulation in New York. The committee consulted informally with cognizant legal experts and concluded that the legal campaign is unlikely to succeed and would thus not be a good use of Foundation funds.
+Proposed by Theo Chino, a privacy and financial inclusion activist. Theo proposes that the Foundation support his lawsuit seeking to overturn the legal basis for the Bitlicense regulation in New York. The committee consulted informally with cognizant legal experts and concluded that the legal campaign is unlikely to succeed and would thus not be a good use of Foundation funds.
 
 #### #17 Zcash Latinoamerica - Education and Outreach
 
 * Proposer: [Rosmar](https://github.com/Rosmar)
 * [[proposal]](https://github.com/ZcashFoundation/GrantProposals-2017Q4/files/1364289/Zcash.Latinoamerica.Education.and.outreach.-.Proposal_Q4_2017.pdf) [[discussion]](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/17)
 
-Proposed by a group of Zcash enthusiasts in Latin America. They have a Facebook group with 2700 members and propose to create a large number of events across Latin America and providing and "all expenses paid" trip for the organizers plus compensation for time.
+Proposed by a group of Zcash enthusiasts in Latin America. They have a Facebook group with 2700 members and propose to create a large number of events across Latin America and providing an "all expenses paid" trip for the organizers plus compensation for time.
 
 The committee felt that such an ambitious project would take extensive planning and a well thought out communications strategy. The committee is not confident in the experience of the organizers to create such an event and represent Zcash, how realistic the expected number of attendees is, the cost of the venues and the clarity of the message to be communicated. Funding of this proposal is not recommended. 
 
@@ -196,7 +196,7 @@ Several of the proposals require ongoing interaction with the community, e.g., b
 
 Several of the proposals are for online services that require ongoing funding. The Foundation should consider supporting these beyond the initial duration funded by the current grants (whether specifically, or by a future competitive grant process on a suitable schedule).
 
-We encourage the Foundation to conduct another competitive grant process within 6-12 months, broadly similar to the current one but taking into considerations the [ideas for improving the grants program](https://github.com/ZcashFoundation/ZcashFoundation/wiki/Ideas-for-improving-the-grants-program). In particular, we found great value in inclusive and interactive process of community feedback and ongoing discussion.
+We encourage the Foundation to conduct another competitive grant process within 6-12 months, broadly similar to the current one but taking into considerations the [ideas for improving the grants program](https://github.com/ZcashFoundation/ZcashFoundation/wiki/Ideas-for-improving-the-grants-program). In particular, we found great value in the inclusive and interactive process of community feedback and ongoing discussion.
 
 ## Attestation
 

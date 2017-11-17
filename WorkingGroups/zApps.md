@@ -7,6 +7,8 @@ zApps Working Group
 
 - *Statement of Purpose:* Pursuant to [issue 28](https://github.com/ZcashFoundation/ZcashFoundation/issues/28) and [issue 35](https://github.com/ZcashFoundation/ZcashFoundation/issues/35), there are many projects—blockchain related and beyond—that are potentially integrating zeroknowledge proofs and processes. To paraphrase [@nathan-at-least](https://github.com/nathan-at-least), this is a newly emerging technical field without well-established techniques, and it stands to reason that a working group could help standardize efforts, hasten development, and improve security across implementations.
 
+- *Mailing List:* [zapps-wg](https://lists.z.cash.foundation/mailman/listinfo/zapps-wg)
+
 Next Steps:
   - Assemble list of potential participants and directly reach out. The current outreach list includes:
     - Filecoin

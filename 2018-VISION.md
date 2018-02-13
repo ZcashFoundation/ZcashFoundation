@@ -48,9 +48,9 @@ While community engagement is generally difficult to measure, there are a litany
 - Increase Zcash Foundation outreach/transparency through email lists/webcasts/office hours/etc.
 - Successful Zcon0
   - Full attendance (250-300 attendees)
-	- Live streaming (and recordings for) all conference presentations
-	- Positive sentiment from post-conference attendee survey
-	- Positive media sentiment from major outlets post-conference
+  - Live streaming (and recordings for) all conference presentations
+  - Positive sentiment from post-conference attendee survey
+  - Positive media sentiment from major outlets post-conference
 
 I’d be happy to work with the Board to define these more explicitly.
 

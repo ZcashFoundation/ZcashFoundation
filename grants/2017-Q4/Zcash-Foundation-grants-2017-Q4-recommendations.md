@@ -13,19 +13,19 @@ We offer our gratitude to the proposers and numerous participants for the though
 
 There were [29 filed proposals](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues?q=is%3Aissue+sort%3Acomments-desc), covering a wide range of topics, including [analyzing and improving Zcash's security](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues?q=is%3Aissue+sort%3Acomments-desc+label%3Asecurity), [building wallets](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues?q=is%3Aissue+sort%3Acomments-desc+label%3Awallet), [community outreach](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues?q=is%3Aissue+sort%3Acomments-desc+label%3Aoutreach), [online services](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues?q=is%3Aissue+sort%3Acomments-desc+label%3Aonline-service) and [financial interoperability](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues?q=is%3Aissue+sort%3Aupdated-desc+label%3Afinancial-interoperability). Many of these included [coding efforts](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues?q=is%3Aissue+sort%3Acomments-desc+label%3Acoding), [user-experience improvement](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues?q=is%3Aissue+sort%3Acomments-desc+label%3AUX), or [novel research](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues?q=is%3Aissue+sort%3Acomments-desc+label%3Aresearch). About half of the proposals came from people who are already publicly active in the Zcash community, and we were delighted to also see many new participants.
 
-Extensive discussion public discussion ensued, mostly via [comments](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues?q=is%3Aissue+sort%3Acomments-desc) in the respective Github issues: there have been over 270 such comments!
+Extensive discussion public discussion ensued, mostly via [comments](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues?q=is%3Aissue+sort%3Acomments-desc) in the respective GitHub issues: there have been over 270 such comments!
 
 Our process allowed 3 weeks between the preliminary filings and the final submissions. The public discussion during this period—by committee members and others from the Zcash community—helped shape the proposals by advising on technical aspects (e.g., [#32](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/32) changed its plan for integration of its new Rust verifier into full nodes), and affecting coordination between related pairs of proposals (e.g., [#7](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/7) and [#22](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/22) refactored their overlapping suggestions for desktop wallet improvements). It also allowed for questions on schedules, budgets, open-source policies and many other aspects, all of which helped clarify the proposals.
 
 We felt that this process was very constructive, and that the early feedback improved the viability and clarity of many proposals.
 
-The grant review committee followed these discussions, and summarized its scores and notes on the filings on a private spreadsheet. Based on these, preliminary opinions were issued to the proposers, prior to the deadline for full submissions, on whether their filings seems promising for funding. These were a mere advisory, and proposers were free to continue adjusting their proposals.
+The grant review committee followed these discussions, and summarized its scores and notes on the filings on a private spreadsheet. Based on these, preliminary opinions were issued to the proposers, prior to the deadline for full submissions, on whether their filings seem promising for funding. These were a mere advisory, and proposers were free to continue adjusting their proposals.
 
 By the October 6th deadline, 11 of the 15 of proposals that received a positive preliminary recommendation, and 2 additional proposals, proceeded to make a full submission. (The remainder effectively withdrew their proposals.)
 
 ## Decision process
 
-After the October 6th 2017 submission deadline, the grant review committee started its deliberations on the [13 full submissions](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues?q=is%3Aissue+label%3Acomplete-submission+sort%3Acomments-desc). In parallel, public discussion and questions to the proposers continued within the Github issues. The aim was to take into consideration all input from the community, while guided by the Zcash Foundation's [Mission](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/MISSION.md) and [Values](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/VALUES.md), and the following considerations:
+After the October 6th 2017 submission deadline, the grant review committee started its deliberations on the [13 full submissions](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues?q=is%3Aissue+label%3Acomplete-submission+sort%3Acomments-desc). In parallel, public discussion and questions to the proposers continued within the GitHub issues. The aim was to take into consideration all input from the community, while guided by the Zcash Foundation's [Mission](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/MISSION.md) and [Values](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/VALUES.md), and the following considerations:
 
 * Importance to the community
 * Likelihood of success
@@ -36,7 +36,7 @@ After the October 6th 2017 submission deadline, the grant review committee start
 * Balance of solid vs. high-risk-high-gain
 * Multiple proposals from same submitter
 
-The committee's internal discussion occurred in a private shared document, where every committee member could review and score every proposal (except for two cases of conflict of interest, [#5](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/5) and [#24](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/24)). Every proposal was received and scored by at least 3 committee members. In the mean while, one proposal ([#5](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/5)) was funded by an external donation, and thus withdrawn.
+The committee's internal discussion occurred in a private shared document, where every committee member could review and score every proposal (except for two cases of conflict of interest, [#5](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/5) and [#24](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/24)). Every proposal was received and scored by at least 3 committee members. In the meanwhile, one proposal ([#5](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/5)) was funded by an external donation, and thus withdrawn.
 
 On October 21th 2017, the committee conducted a videoconference meeting to discuss all proposals, and reached tentative conclusions; lingering questions on a few proposals were discussed over a few more days.
 
@@ -72,7 +72,7 @@ The proposers are a group of blockchain enthusiasts who wish to promote the broa
 
 The promotion of inclusivity, and of using Zcash as a way to exercise the right to financial privacy, are core [values](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/VALUES.md) of the Zcash Foundation, and outreach efforts are essential to these goals.
 
-The proposers’ team has expertise in computer science, engineering and marketing. They provided a well-thought-out proposal and a good working plan for the creation of workshops along, with a reasonable budget for running them. They plan to  utilize educational institutions to hold these workshops and will keep the community informed of the progress via various video and social media platforms. Full funding of this proposal is recommended. 
+The proposers’ team has expertise in computer science, engineering and marketing. They provided a well-thought-out proposal and a good working plan for the creation of workshops along, with a reasonable budget for running them. They plan to utilize educational institutions to hold these workshops and will keep the community informed of the progress via various video and social media platforms. Full funding of this proposal is recommended. 
 
 #### #11 Zcash on Tor
 
@@ -122,7 +122,7 @@ Funding of the minimum amount requested (7,000 USD) is recommended, since this s
 
 The proposer has ported the zcashd software and the Zcash desktop GUI wallet to Windows and Mac. He proposes to continue and stabilize this work by unifying the various porting branches and build scripts, deploy and maintaining machines for Mac and Windows testing environments, and preparing porting efforts for upstream merging.
 
-The review committee consider Mac and Windows support to be important for mainstream Zcash adoption. The proposed work will significant improve the reliability and maintainability of this code, both in the ports released by the proposer and in helping the upstream developers build and test their software on those platforms.
+The review committee consider Mac and Windows support to be important for mainstream Zcash adoption. The proposed work will significantly improve the reliability and maintainability of this code, both in the ports released by the proposer and in helping the upstream developers build and test their software on those platforms.
 
 The proposer is well known by the Zcash community (he is also running a block explorer, see #19) and is capable of following through on all work promised. Funding of the full amount is recommended.
 

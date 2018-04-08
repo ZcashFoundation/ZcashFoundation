@@ -5,7 +5,7 @@ Zcash Miners Working Group
 
 - _Forums:_ This working group will start with a channel on Zcash community chat but may progress to an additional platform depending on how we decide to poll.
 
-- _Statement of Purpose:_ This working group is intended to gather feedback and foster an open dialog from the overall mining community about what Zcash protocol priorities they may find important and try to provide a voice for the various mining groups and pools. With upcoming Forks and possible changes to Equilhash parameters it will be important to gather feedback about how miners may be affected. 
+- _Statement of Purpose:_ This working group is intended to gather feedback and foster an open dialog from the overall mining community about what Zcash protocol priorities they may find important and try to provide a voice for the various mining groups and pools. With upcoming Forks and possible changes to Equihash parameters it will be important to gather feedback about how miners may be affected. 
 
  First steps:
  - Open a public channel on the Chat to be called ZcashMinersOrg

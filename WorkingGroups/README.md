@@ -11,7 +11,7 @@ The coordinator is expected to give monthly updates on the working group's progr
 
 Recognition Process
 -------------------
-Working groups are intended to be community-driven, indepdendent, and led by volunteers, rather than organized top-down.
+Working groups are intended to be community-driven, independent, and led by volunteers, rather than organized top-down.
 As such, the idea is that although the Foundation will officially "recognize" Working Groups, the Working Groups should be able to exist independently of the Foundation too. For example, a working group can exist before being recognized by the Foundation, a working group could be simultaneously recognized by some other organization as well (e.g., a WC3 working group), and a working group could continue to exist even if the Zcash Foundation withdraws recognition.
 
 To propose a working group for recognition by Zcash Foundation, create a draft file explaining the above, and either create an issue or a pull request to this repo.

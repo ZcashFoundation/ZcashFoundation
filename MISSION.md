@@ -20,6 +20,6 @@ We will help coordinate on upgrades to the protocol. This can include organizing
 
 3. Science
 -----
-Technical decisions are best supported by scientific activities, such as rigorous validation, empirical measurement, and continued innovation and refinement. We will therefore support these activities within our community. All cryptocurrencies, but especially Zcash, rely on cutting-edge contributions from the scientific reseach community, thus interaction with this community can also help the community stay healthy.
+Technical decisions are best supported by scientific activities, such as rigorous validation, empirical measurement, and continued innovation and refinement. We will therefore support these activities within our community. All cryptocurrencies, but especially Zcash, rely on cutting-edge contributions from the scientific research community, thus interaction with this community can also help the community stay healthy.
 
 We will encourage this scientific research and educate the public regarding the substance and benefits of these scientific developments.

@@ -1,6 +1,8 @@
 # Zcash Foundation Vision and Roadmap
 ## For 2018 and Beyond
-*by Josh Cincinnati, Senior Program Manager of the Zcash Foundation*
+*by Josh Cincinnati, Executive Director of the Zcash Foundation*
+
+*Please note, this document has been updated after [Board approval from this meeting.](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/board-documents/minutes/2018-06-22.md) Please view the [commit history to view the changes](https://github.com/ZcashFoundation/ZcashFoundation/commits/master/2018-VISION.md).*
 
 2017 marked a year of formulation, of carefully testing waters, of measured growth for the Zcash Foundation. 2018 will be a year of rapid acceleration—in the Foundation’s scope, its goals, and its responsibility to the Zcash and broader cryptocurrency community.
 
@@ -56,12 +58,16 @@ I’d be happy to work with the Board to define these more explicitly.
 
 ## Science
 
-Despite mind-bogglingly high market valuations for cryptocurrency, hard research is in short supply. The Zcash Foundation can change that. We can help **build an alternative implementation of Zcash (already happening thanks to the grant program), add new protocol features/suggestions via this implementation, audit and organize Zcash hard forks, and fund other ZK/privacy approaches.**
+Despite mind-bogglingly high market valuations for cryptocurrency, hard research is in short supply. The Zcash Foundation can change that. We can help **build an alternative implementation of Zcash (already happening thanks to the grant program), add new protocol features/suggestions via this implementation, build wallet implementations and libraries, audit and organize Zcash hard forks, and fund other ZK/privacy approaches.**
 
 *Tactically:*
 
-- Fund Rust implementation and reach feature parity with reference Zcash client
+- Fund Rust implementation and reach feature parity with reference Zcash client, with an attention to detail on UX and multi-platform support
+- BOLT/Layer 2 work
+- Mobile wallet libraries for light-client development
+- Mining software that actively encourages decentralization
 - Continue grant program to fund research and science in zk-SNARKs and other privacy approaches
+- Build community crowdfunding site for continuous project fundraising where the Foundation may periodically match funds
 - Support other applications/dev groups leveraging Powers of Tau and privacy tech
 - Zcon0!
 
@@ -104,16 +110,15 @@ In line with the challenge above, this pillar is by far the most abstract and di
 
 ## Beneath the Pillars: What Lies at the Foundation’s Foundation
 
-The three pillars above are meant to further our mission to build Internet payment and privacy infrastructure for the public good—but like any good stylobate, pillars need support too. Operationally, we have **a plan to spend close to $1.3mm this year** as detailed by the excellent budget put together by our Operations Director Antonie Hodge. It's worth highlighting a few budget asks:
+The three pillars above are meant to further our mission to build Internet payment and privacy infrastructure for the public good—but like any good stylobate, pillars need support too. Operationally, we have **a plan to spend ~$2.5mm this year** as detailed by the excellent budget put together by our Operations Director Antonie Hodge. It's worth highlighting a few budget asks:
 
 **$250,000 of Grants:** To facilitate broader community support and further scientific research; split into Q2 and Q4 programs.
 
-**$357,500 for Zcon0:** Hosting the first zero knowledge/privacy focused conference to benefit the Zcash and broader cryptocurrency ecosystem.
+**$475,000 for Zcon0:** Hosting the first zero knowledge/privacy focused conference to benefit the Zcash and broader cryptocurrency ecosystem.
 
-**$430,000 for wages expense:** Antonie is planning on upping her hours, and I’m hoping to transition to full-time. We’re planning on hiring a protocol developer, web contractor, and PR contractor as well:
+**$873,000 for wages expense:** The Foundation currently has three full time employees, and we're planning on hiring three full-time engineers as well. We are also planning on hiring a web contractor.
 
-https://github.com/ZcashFoundation/ZcashFoundation/issues/54
-https://github.com/ZcashFoundation/ZcashFoundation/issues/53
+**500,000 for research expense:** In addition to our full-time employees and community grant process, the Foundation would like to fund specific research contractors to build Foundation tooling and software (e.g. contributing to the Rust implementation and BOLT). We foresee that some of this funding will also go toward a more continuous community-driven grant process where the Foundation might match projects that reach community crowd-funding goals.
 
 All of the budget is aligned to execute on the strategic goals outlined above.
 
@@ -124,4 +129,5 @@ Beyond the budget for this year, significant USD-based expenditures are anticipa
 Though we are in early stages of broader financial planning, this much is clear: **We fully intend to keep the vast majority of our endowment in ZEC, while for the minority of the endowment we plan on diversifying to other cryptocurrencies that stand to take advantage of the Foundation’s work on furthering privacy technology.** This might mean a mix of bitcoin, ether, monero, as-yet-unlaunched grin, or others developed in the future that are beneficiaries of the Foundation’s work. There will be additional diversification to other traditional assets if our endowment grows, but the full scale of that plan is too early for commitment and beyond the scope of this document.
 
 ## Conclusion
+
 ...is that this is just the beginning. :) The Foundation has an ambitious vision for the year, and grander ambitions past 2018. There is much for us to do in the future beyond what’s outlined here—including greater stewardship of development around the Zcash protocol and broader advocacy for privacy in payments online. We anticipate that 2018 will prove to be a blueprint and rubric for greater acceleration of the Foundation’s work.

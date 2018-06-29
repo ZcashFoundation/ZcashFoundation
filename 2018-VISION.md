@@ -118,7 +118,7 @@ The three pillars above are meant to further our mission to build Internet payme
 
 **$873,000 for wages expense:** The Foundation currently has three full time employees, and we're planning on hiring three full-time engineers as well. We are also planning on hiring a web contractor.
 
-**500,000 for research expense:** In addition to our full-time employees and community grant process, the Foundation would like to fund specific research contractors to build Foundation tooling and software (e.g. contributing to the Rust implementation and BOLT). We foresee that some of this funding will also go toward a more continuous community-driven grant process where the Foundation might match projects that reach community crowd-funding goals.
+**$500,000 for research expense:** In addition to our full-time employees and community grant process, the Foundation would like to fund specific research contractors to build Foundation tooling and software (e.g. contributing to the Rust implementation and BOLT). We foresee that some of this funding will also go toward a more continuous community-driven grant process where the Foundation might match projects that reach community crowd-funding goals.
 
 All of the budget is aligned to execute on the strategic goals outlined above.
 

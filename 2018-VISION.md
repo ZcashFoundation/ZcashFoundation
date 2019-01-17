@@ -1,3 +1,7 @@
+## This document has been archived, and will no longer be maintained or updated. The current version can be found in the Zcash Foundation’s new canonical [GitHub repo](https://github.com/ZcashFoundation/zfnd/blob/master/about/2018-vision.md), which publishes directly to a corresponding section of our [website](https://www.zfnd.org/about/2018-vision/).
+
+## Archival date: 1/17/2019
+
 # Zcash Foundation Vision and Roadmap
 ## For 2018 and Beyond
 *by Josh Cincinnati, Executive Director of the Zcash Foundation*

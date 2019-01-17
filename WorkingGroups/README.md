@@ -1,3 +1,7 @@
+## This folder has been archived, and will no longer be maintained or updated. The Zcash Foundation may reinstate Working Groups at some point in the future, in which case they'll be organized within our new canonical [GitHub repo](https://github.com/ZcashFoundation/zfnd/).
+
+## Archival date: 1/17/2019
+
 Working Groups are a lightweight structure for organizing groups of volunteers around projects or tasks. The Zcash Foundation is adopting a "Working Group Recognition" policy to foster and support such groups. Working groups recognized by the Foundation will be included in our website and will be included in periodic public updates about the Foundation's progress.
 
 Minimum Requirements for a Working Group
